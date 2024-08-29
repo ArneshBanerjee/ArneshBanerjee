@@ -1,10 +1,10 @@
 # 🌟 Hello! I'm Link 🌟
 
 ## 📚 About Me
-- 🎓 **2nd Year Bachelor’s in Computer Science Engineering Student**
+- 🎓 **2nd Year Bachelor’s Student in Computer Science Engineering**
 - 🏫 Finished High School in 2023 and joined college the same year
 - 💻 **3+ years experience in Python**
-- 🔧 **1 year experience in C and MySQL**
+- 🔧 **1 year experience in C and MySQL and ML**
 - 🎯 Aspiring to become a Software Engineer after completing my Master’s degree
 
 ## 🛠️ Tech Stack
