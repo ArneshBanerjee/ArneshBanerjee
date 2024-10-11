@@ -6,7 +6,7 @@
 - 💻 **3+ years experience in Python**
 - 🔧 **1 year experience in C, MySQL, and Machine Learning (ML)**
 - 🌐 **Skilled in Flask, HTML, and CSS to build full-stack websites**
-- 🎯 Aspiring to become a Software Engineer after completing my Master’s degree
+- 🎯 Aspiring to become a Software Engineer
 
 ## 🛠️ Tech Stack
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white&size=small)
