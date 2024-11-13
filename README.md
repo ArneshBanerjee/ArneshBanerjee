@@ -4,7 +4,7 @@
 - 🎓 **2nd Year Bachelor’s Student in Computer Science Engineering**
 - 🏫 Finished High School in 2023 and joined college the same year
 - 💻 **3+ years experience in Python**
-- 🔧 **1 year experience in C, MySQL, and Machine Learning (ML)**
+- 🔧 **1 year experience in DSA in C, MySQL, and Machine Learning (ML)**
 - 🌐 **Skilled in Flask, HTML, and CSS to build full-stack websites**
 - 🎯 Aspiring to become a Software Engineer
 
