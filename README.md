@@ -19,6 +19,10 @@
 ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white&size=small)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white&size=small)
 
+## 🚀 Ongoing Research
+1. **Reoccurance of Breast Cancer**
+   - Using Machine Learning to Predict the reoccurance of Breast Cancer under the guidance of Prof. Aprita Talukdar, HITK.
+
 ## 🚀 Projects
 
 1. **Candidate Smart Profile Competency Score Calculator**:  
