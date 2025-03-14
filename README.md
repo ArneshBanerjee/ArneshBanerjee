@@ -3,7 +3,7 @@
 ## 📚 About Me
 - 🎓 **2nd Year Bachelor’s Student in Computer Science Engineering**
 - 🏫 Finished High School in 2023 and joined college the same year
-- 💻 **3+ years experience in Python**
+- 💻 **4+ years experience in Python**
 - 🔧 **1 year experience in DSA in C, MySQL, and Machine Learning (ML)**
 - 🌐 **Basic Knowledge in Flask, HTML, and CSS to build full-stack websites**
 
