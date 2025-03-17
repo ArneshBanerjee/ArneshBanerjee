@@ -41,8 +41,8 @@
    - Integrated the Gemini API to provide detailed diagnoses, symptoms, concerns, and management strategies for detected diseases, including recommendations for cultural, chemical, and biological control methods
 
 ## 📊 GitHub Stats
-![Link's GitHub stats](https://github-readme-stats.vercel.app/api?username=Link-on-github&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Link-on-github&layout=compact)
+![Link's GitHub stats](https://github-readme-stats.vercel.app/api?username=ArneshBanerjee&show_icons=true&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ArneshBanerjee&layout=compact)
 
 ## 📫 Reach Out to Me
 - 📧 Email: arneshbanerjee24@gmail.com
