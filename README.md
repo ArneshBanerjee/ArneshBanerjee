@@ -2,9 +2,8 @@
 
 ## 📚 About Me
 - 🎓 **2nd Year Bachelor’s Student in Computer Science Engineering**
-- 🏫 Finished High School in 2023 and joined college the same year
 - 💻 **4+ years experience in Python**
-- 🔧 **1 year experience in DSA in C, MySQL, and Machine Learning (ML) and Deep Learning (DL)**
+- 🔧 **1 year experience Machine Learning (ML) and Deep Learning (DL)**
 
 ## 🛠️ Tech Stack
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white&size=small)
@@ -30,9 +29,17 @@
    - Private repo (still in progress).
 
 2. **Seismic Detection Across the Solar System**:  
-   - Developed **machine learning models using NASA-provided seismic data** from the Apollo missions and Mars InSight Lander to distinguish seismic quakes from noise
+   - Developed **machine learning models using NASA-provided seismic data** from the Apollo missions and Mars InSight Lander to distinguish seismic quakes from noise.
    - Achieved 86.67% accuracy in classifying signals, optimizing data transmission for planetary seismology missions.
    - Utilized Python, Keras, Scikit Learn, ARIMA models, and Jupyter Notebook
+  
+## 🚀 Enterprenurship
+
+1. **Video to Notes Generation Web Based Application:**
+   - Auto mp4 to notes conversion
+   - Features for disabled(blind) students.
+   - Pitched at an Enterprenurship Event at my Uni and got place in **Top 10** in my Freshman Year.
+   - Currently Under developement.
 
 ## 📊 GitHub Stats
 ![Link's GitHub stats](https://github-readme-stats.vercel.app/api?username=ArneshBanerjee&show_icons=true&theme=radical)
