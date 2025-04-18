@@ -31,6 +31,11 @@
    - Achieved 86.67% accuracy in classifying signals, optimizing data transmission for planetary seismology missions.
    - Utilized Python, Keras, Scikit Learn, ARIMA models, and Jupyter Notebook
   
+3. **Discord Bot**
+   - Developed a custom discord bot using **discord.py** library in python for a server with 13000 members achieving.
+   - Achieved 5% monthly growth in server member retention.
+   - Available on https://discord.gg/porkchopsmp
+  
 ## 🚀 Enterprenurship
 
 1. **Video to Notes Generation Web Based Application:**
