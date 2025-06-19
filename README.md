@@ -2,7 +2,7 @@
 
 ## 📚 About Me
 - 🎓 **2nd Year Bachelor’s Student in Computer Science Engineering**
-- 💻 **4+ years experience in Python**
+- 💻 **3+ years experience in Python**
 - 🔧 **1 year experience Machine Learning (ML) and Deep Learning (DL)**
 
 ## 🛠️ Tech Stack
@@ -15,8 +15,10 @@
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white&size=small)
 
 ## 🚀 Ongoing Research
-1. **Reoccurance of Breast Cancer**
-   - Using Machine Learning to Predict the reoccurance of Breast Cancer under the guidance of Prof. Aprita Talukdar, HITK.
+1. **Ongoing**
+   - Reinforcement Learning Research Intern at New Jersey Institute of Technology under guidance of Prof. Arnob Ghosh, Department of Electrical and Computer Engineering, NJIT.
+2. **Reoccurance of Breast Cancer**
+   - Using Machine Learning to Predict the reoccurance of Breast Cancer under the guidance of Prof. Aprita Talukdar, Department of Data Science, HITK.
 
 ## 🚀 Projects
 
