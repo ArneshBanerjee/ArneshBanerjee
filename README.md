@@ -1,9 +1,9 @@
 # 🌟 Hello! I'm Arnesh 🌟
 
 ## 📚 About Me
-- 🎓 **2nd Year Bachelor’s Student in Computer Science Engineering**
-- 💻 **3+ years experience in Python**
-- 🔧 **1 year experience Machine Learning (ML) and Deep Learning (DL)**
+- 🎓 **3rd Year Bachelor’s Student in Computer Science Engineering**
+- 💻 **4+ years experience in Python**
+- 🔧 **2 year experience Machine Learning (ML) and Deep Learning (DL)**
 
 ## 🛠️ Tech Stack
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white&size=small)
@@ -14,11 +14,12 @@
 ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white&size=small)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white&size=small)
 
-## 🚀 Ongoing Research
-1. **Ongoing**
+## 🚀 Research Work
+Both below mentioned research works have been completed and submitted for review in ICLR 2026 and ICAA 2025 respectively.
+1. **Safe LLMs Using Cost Model Novelty in Safe RLHF**
    - Reinforcement Learning Research Intern at New Jersey Institute of Technology under guidance of Prof. Arnob Ghosh, Department of Electrical and Computer Engineering, NJIT.
-2. **Reoccurance of Breast Cancer**
-   - Using Machine Learning to Predict the reoccurance of Breast Cancer under the guidance of Prof. Aprita Talukdar, Department of Data Science, HITK.
+2. **Reccurance of Breast Cancer**
+   - Using Wrapper Based Recursive and Sequestional Feature Selection methods to Predict the reccurance of Breast Cancer under the guidance of Prof. Aprita Talukdar, Department of Data Science, HITK.
 
 ## 🚀 Projects
 
@@ -40,7 +41,7 @@
   
 ## 🚀 Enterprenurship
 
-1. **Video to Notes Generation Web Based Application:**
+1. **Video to Notes Generation Web Based Application:** [Under Develoement]
    - Auto mp4 to notes conversion
    - Features for disabled(blind) students.
    - Pitched at an Enterprenurship Event at my Uni and got place in **Top 10** in my Freshman Year.
