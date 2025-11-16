@@ -1,7 +1,7 @@
 # 🌟 Hello! I'm Arnesh 🌟
 
 ## 📚 About Me
-- 🎓 **3rd Year Bachelor’s Student in Computer Science Engineering**
+- 🎓 **3rd Year Bachelor’s Student in Data Science**
 - 💻 **4+ years experience in Python**
 - 🔧 **2 year experience Machine Learning (ML) and Deep Learning (DL)**
 
@@ -14,20 +14,27 @@
 ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white&size=small)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white&size=small)
 
-## 🚀 Research Work
-Both below mentioned research works have been completed and submitted for review in ICLR 2026 and ICAA 2025 respectively.
-1. **Safe LLMs Using Cost Model Novelty in Safe RLHF**
+## 🚀 Research Experience
+1. **Breast Cancer Detection Using CNNs on Thermography**
+   - Research Intern under Prof. Debotosh Bhattacharjee and Prof. Arnesh Ray, Department of Computer Science & Engineering, Jadavpur University.
+   - Developing a CNN-based pipeline for breast-cancer detection using infrared thermograms, involving dataset preprocessing, custom U-Net architecture design, and multiscale feature extraction.
+   - Early results show strong segmentation accuracy and robust classification performance across varying thermal conditions.
+2. **Certifiable Safe RLHF: Fixed-Penalty Constraint Optimization for Safer Language Models**
    - Reinforcement Learning Research Intern at New Jersey Institute of Technology under guidance of Prof. Arnob Ghosh, Department of Electrical and Computer Engineering, NJIT.
-2. **Reccurance of Breast Cancer**
+   - Lead Dataset Design and worked on Intensive Model Testing
+   - Results show 50% improvement in prompt safety compared to Chat Gpt-5
+   - Pre-print: https://arxiv.org/pdf/2510.03520 
+3. **Reccurance of Breast Cancer**
    - Using Wrapper Based Recursive and Sequestional Feature Selection methods to Predict the reccurance of Breast Cancer under the guidance of Prof. Aprita Talukdar, Department of Data Science, HITK.
+   - Achieved 100% accuracy and F-1 score on both Reccurence and Diagnosis Datasets
 
 ## 🚀 Projects
 
 1. **Candidate Smart Profile Competency Score Calculator**:  
-   - Built for **SIH 2024**, worked solo on this project which led my team to Round 2.
+   - Built for **SIH 2024**, which led my team to Round 2.
    - Utilizes **ML (Scikit-Learn)** with **Random Forest** to predict a user's job category by analyzing their resume.
    - Recommends **courses and jobs** based on the candidate's skill set to help them improve.
-   - Private repo (still in progress).
+   - Private repo (work paused since SIH 2024).
 
 2. **Seismic Detection Across the Solar System**:  
    - Developed **machine learning models using NASA-provided seismic data** from the Apollo missions and Mars InSight Lander to distinguish seismic quakes from noise.
