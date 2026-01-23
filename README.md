@@ -44,7 +44,7 @@
 3. **Discord Bot**
    - Developed a custom discord bot using **discord.py** library in python for a server with 13000 members achieving.
    - Achieved 5% monthly growth in server member retention.
-   - Available on https://discord.gg/porkchopsmp
+   - Available on https://discord.gg/porkchopsmp (server closed as of 2025)
   
 ## 🚀 Enterprenurship
 
