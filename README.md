@@ -4,7 +4,7 @@
 🔬 Undergraduate Researcher in Machine Learning & AI Safety  
 🧠 Interested in Deep Learning, Medical Imaging, and RLHF  
 🐍 4+ years experience in Python | 2+ years in ML/DL  
-I use Arch btw
+🐧 I use Arch btw
 
 ---
 
