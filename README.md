@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Arnesh Banerjee
 
-🎓 3rd Year B.Tech Student in CSE(Data Science)  
+🎓 3rd Year B.Tech Student in CSE(Data Science), Intern at IIT Kharagpur  
 🔬 Undergraduate Researcher in Machine Learning & AI Safety  
 🧠 Interested in Deep Learning, Multi Agent Reinforcement Learning, Medical Imaging, and RLHF  
 🐍 4+ years experience in Python | 2+ years in ML/DL  
