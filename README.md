@@ -1,10 +1,8 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,24&height=200&section=header&text=Arnesh%20Banerjee&fontSize=58&fontColor=ffffff&fontAlignY=38&desc=Undergraduate%20Researcher%20%C2%B7%20MARL%20%C2%B7%20AI%20Safety&descSize=18&descAlignY=58&animation=fadeIn" alt="banner" />
+# Arnesh Banerjee
 
-<a href="https://arneshbanerjee.github.io/"><img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&pause=900&color=8B1A1A&center=true&vCenter=true&width=720&lines=Multi-Agent+Reinforcement+Learning;RL+Environments+%26+Simulation;AI+Safety+%26+Alignment;Medical+Imaging+%C2%B7+LLMs;%22I+use+Arch%2C+btw.%22" alt="typing" /></a>
-
-<br/>
+**Undergraduate Researcher** &nbsp;·&nbsp; MARL &nbsp;·&nbsp; AI Safety &nbsp;·&nbsp; Medical CV
 
 [![Website](https://img.shields.io/badge/website-arneshbanerjee.github.io-8b1a1a?style=for-the-badge&logo=githubpages&logoColor=white)](https://arneshbanerjee.github.io/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-arnesh24-0a66c2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/arnesh24/)
@@ -21,11 +19,11 @@
 
 ```python
 class Arnesh:
-    role        = "B.Tech CSE (Data Science), Heritage Institute of Technology"
-    incoming    = "Summer Research Intern @ IIT Kharagpur (GRISHMA 2026)"
-    interests   = ["MARL", "RL Sim", "AI Safety", "Alignment", "Medical CV", "LLMs"]
-    runtime     = "Arch Linux · Neovim · tmux"
-    open_to     = "PhD conversations · research collabs · weird ML problems"
+    role      = "B.Tech CSE (Data Science), Heritage Institute of Technology"
+    incoming  = "Summer Research Intern @ IIT Kharagpur (GRISHMA 2026)"
+    interests = ["MARL", "RL Sim", "AI Safety", "Alignment", "Medical CV", "LLMs"]
+    runtime   = "Arch Linux · Neovim · tmux"
+    open_to   = "PhD conversations · research collabs · weird ML problems"
 
     def current(self):
         return [
@@ -102,9 +100,5 @@ RFE + SFS across SVM / LogReg / XGBoost.
 ---
 
 <div align="center">
-
 <sub>↳ always up to talk about MARL, alignment, or weird things LLMs do with math.</sub>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,24&height=80&section=footer" alt="footer" />
-
 </div>
