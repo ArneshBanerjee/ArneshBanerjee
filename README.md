@@ -1,75 +1,64 @@
-# 👋 Hi, I'm Arnesh Banerjee
+<div align="center">
 
-🎓 3rd Year B.Tech Student in CSE(Data Science), Intern at IIT Kharagpur  
-🔬 Undergraduate Researcher in Machine Learning & AI Safety  
-🧠 Interested in Deep Learning, Multi Agent Reinforcement Learning, Medical Imaging, and RLHF  
-🐍 4+ years experience in Python | 2+ years in ML/DL  
-🐧 I use Arch btw
+# Arnesh Banerjee
 
----
+**Undergraduate Researcher · ML × AI Safety × Multi-Agent RL**
 
-## 🧪 Research
+[![Website](https://img.shields.io/badge/website-arneshbanerjee.github.io-8b1a1a?style=flat-square&logo=githubpages&logoColor=white)](https://arneshbanerjee.github.io/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-arnesh24-0a66c2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/arnesh24/)
+[![Email](https://img.shields.io/badge/email-arneshbanerjee24@gmail.com-d14836?style=flat-square&logo=gmail&logoColor=white)](mailto:arneshbanerjee24@gmail.com)
+[![arXiv](https://img.shields.io/badge/arXiv-2510.03520-b31b1b?style=flat-square&logo=arxiv&logoColor=white)](https://arxiv.org/abs/2510.03520)
 
-### 🔹 Multiscale Transformer-Enhanced U-Net with Level-Set Regularization *(Work in Progress)*  
-**Jadavpur University — First Author**
-
-- Developed hybrid ResNet34 + ASPP + ViT decoder with SE attention for breast thermography segmentation  
-- Achieved **98.10% Dice** and **96.39% IoU** under 5-fold cross-validation  
-- Conducted 20-run ablation studies comparing U-Net and hybrid architectures  
-- Built reproducible cross-validation and experiment logging pipeline  
+</div>
 
 ---
 
-### 🔹 Certifiable Safe RLHF: Fixed-Penalty Constraint Optimization for Safer Language Models  
-**New Jersey Institute of Technology**
-
-- Designed cost-model dataset for modified Safe RLHF pipeline  
-- Built safety benchmark across GPT, DeepSeek, Gemini, Qwen, and Mistral  
-- Achieved **50% higher safety compliance** compared to GPT  
-- 📄 Preprint: https://arxiv.org/abs/2510.03520  
-
----
-
-### 🔹 Recursive and Sequential Wrapper-Based Feature Selection for Breast Cancer Diagnosis and Prognosis  
-**Heritage Institute of Technology — Accepted at AGC 2026**
-
-- Implemented RFE and SFS with SVM, Logistic Regression, RF, MLP, and XGBoost  
-- Achieved **93.67% accuracy (WPBC)** and **97.77% accuracy (WDBC)**  
-- Applied SMOTE and stratified 10-fold cross-validation  
-- Interpreted clinically relevant nuclear morphology features  
+```yaml
+name:      Arnesh Banerjee
+role:      B.Tech CSE (Data Science), Heritage Institute of Technology
+incoming:  Summer Research Intern @ IIT Kharagpur (GRISHMA 2026)
+interests: [MARL, RL Environments, AI Safety, Alignment, Medical Imaging, LLMs]
+runtime:   Arch Linux + Neovim + tmux
+```
 
 ---
 
-## 🚀 Projects
+## Now
 
-### 🔹 Moonquake Classification Dashboard *(NASA Space Apps 2024)*  
-**Tech:** R, Shiny, Random Forest, CatBoost  
-🔗 https://github.com/ArneshBanerjee/Moonquake-Classification  
+- **Co-evolutionary MARL for autonomous drones** — in collaboration with the AI for Defence Lab, ULiège
+- **GRISHMA Summer Internship @ IIT Kharagpur** — population-specific genomic LM (IgLM) on the StripedHyena2 architecture, advised by Dr. Sourangshu Bhattacharya
+- **Historical revisionism in LLMs** — auditing Indian-history narratives with the NJIT group
 
-- Built interactive Shiny dashboard for Apollo moonquake seismic analysis  
-- Achieved **93.33% accuracy** with Random Forest  
-- Integrated spectrograms, confusion matrices, and feature importance visualization  
+## Recent Research
+
+| Project | Where | Headline |
+|---|---|---|
+| Multiscale Transformer-Enhanced U-Net for breast thermography | Jadavpur University | **98.10% Dice / 96.39% IoU**, 5-fold CV, 20-run ablation |
+| Certifiable Safe RLHF — fixed-penalty constraint optimization | NJIT (Dr. Arnob Ghosh) | **50%+ higher safety compliance** than GPT on an 800-pt benchmark · [arXiv 2510.03520](https://arxiv.org/abs/2510.03520) |
+| Recursive & wrapper-based feature selection for breast cancer | Heritage Institute of Technology | **97.77% (WDBC) / 93.67% (WPBC)** · Oral @ AGC 2026 |
+
+## Stack
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
+![JAX](https://img.shields.io/badge/JAX-000000?style=flat-square&logo=google&logoColor=white)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white)
+![Gymnasium](https://img.shields.io/badge/Gymnasium-0081A5?style=flat-square)
+![Stable--Baselines3](https://img.shields.io/badge/SB3-555555?style=flat-square)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![LaTeX](https://img.shields.io/badge/LaTeX-008080?style=flat-square&logo=latex&logoColor=white)
+![Arch](https://img.shields.io/badge/Arch_Linux-1793D1?style=flat-square&logo=archlinux&logoColor=white)
+![Neovim](https://img.shields.io/badge/Neovim-57A143?style=flat-square&logo=neovim&logoColor=white)
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=ArneshBanerjee&show_icons=true&hide_border=true&theme=vue&include_all_commits=true&count_private=true" height="155" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ArneshBanerjee&layout=compact&hide_border=true&theme=vue&langs_count=8" height="155" />
+
+</div>
 
 ---
 
-### 🔹 Candidate Smart Profile Competency Score Calculator *(SIH 2024 — Round 2)*  
-**Tech:** Python, Scikit-Learn  
-
-- Built ML system using Random Forest to predict job categories from resumes  
-- Designed competency scoring to recommend personalized courses and job roles  
-
----
-
-## 🛠 Technical Stack
-
-**Languages:** Python, R, C, Java, SQL  
-**ML/DL:** PyTorch, Scikit-Learn, Keras, CatBoost, XGBoost, H2O  
-**Data:** pandas, NumPy, Matplotlib, Seaborn, Plotly  
-**Frameworks:** Flask, FastAPI, Shiny  
-**Tools:** Git, Docker, Jupyter, LaTeX  
-
----
-
-## 📫 Contact
-
-📧 arneshbanerjee24@gmail.com
+<div align="center">
+<sub>Open to PhD conversations · always up to discuss MARL, alignment, or anything weird LLMs do with math.</sub>
+</div>
