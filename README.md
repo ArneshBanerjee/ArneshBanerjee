@@ -1,104 +1,203 @@
-<div align="center">
+# Hi, I'm Arnesh Banerjee
 
-# Arnesh Banerjee
+### Undergraduate AI Researcher • Multi-Agent RL • AI Safety • Foundation Models
 
-**Undergraduate Researcher** &nbsp;·&nbsp; MARL &nbsp;·&nbsp; AI Safety &nbsp;·&nbsp; Medical CV
+I am a B.Tech Computer Science (Data Science) student at Heritage Institute of Technology, Kolkata, conducting research across **Multi-Agent Reinforcement Learning (MARL)**, **AI Safety & Alignment**, **Medical AI**, **Foundation Models**, and **Applied Machine Learning**.
 
-[![Website](https://img.shields.io/badge/website-arneshbanerjee.github.io-8b1a1a?style=for-the-badge&logo=githubpages&logoColor=white)](https://arneshbanerjee.github.io/)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-arnesh24-0a66c2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/arnesh24/)
-[![Email](https://img.shields.io/badge/Gmail-arneshbanerjee24-d14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:arneshbanerjee24@gmail.com)
-[![arXiv](https://img.shields.io/badge/arXiv-2510.03520-b31b1b?style=for-the-badge&logo=arxiv&logoColor=white)](https://arxiv.org/abs/2510.03520)
+Currently, I am a Summer Research Intern at **IIT Kharagpur**, working on **India's first genomic language model (IgLM)** under the GRISHMA Research Internship Program.
 
-<img src="https://komarev.com/ghpvc/?username=ArneshBanerjee&label=profile%20views&color=8b1a1a&style=flat-square" alt="profile-views" />
-
-</div>
+My long-term goal is to pursue a PhD and contribute to the development of reliable, safe, and capable AI systems.
 
 ---
 
-### whoami
+## Research Interests
 
-```python
-class Arnesh:
-    role      = "B.Tech CSE (Data Science), Heritage Institute of Technology"
-    incoming  = "Summer Research Intern @ IIT Kharagpur (GRISHMA 2026)"
-    interests = ["MARL", "RL Sim", "AI Safety", "Alignment", "Medical CV", "LLMs"]
-    runtime   = "Arch Linux · Neovim · tmux"
-    open_to   = "PhD conversations · research collabs · weird ML problems"
-
-    def current(self):
-        return [
-            "Co-evolutionary MARL for autonomous drones (AI for Defence Lab, ULiège)",
-            "IgLM — population-specific genomic LM on StripedHyena2 @ IIT KGP",
-            "Auditing historical revisionism in LLMs (with NJIT)",
-        ]
-```
+* Multi-Agent Reinforcement Learning (MARL)
+* Autonomous Systems & Drone Simulation
+* AI Safety & Alignment
+* Foundation Models & LLMs
+* Reinforcement Learning from Human Feedback (RLHF)
+* Medical Image Analysis
+* Deep Learning
+* Applied Machine Learning
 
 ---
 
-### Selected Work
+## Current Research
 
-<table>
-<tr>
-<td width="33%" valign="top">
+### Genomic Foundation Models — IIT Kharagpur
 
-**Breast Thermography Segmentation**
-*Jadavpur University*
+Working on **IgLM**, a population-specific genomic language model built on the **StripedHyena2 architecture**.
 
-ResNet34 + ASPP + ViT decoder with SE attention.
-
-`98.10% Dice` · `96.39% IoU`
-5-fold CV · 20-run ablation
-
-</td>
-<td width="33%" valign="top">
-
-**Certifiable Safe RLHF**
-*NJIT — Dr. Arnob Ghosh*
-
-Fixed-penalty constraint optimization for safer LLMs.
-
-`50%+ safer than GPT` on an 800-pt benchmark
-[arXiv 2510.03520](https://arxiv.org/abs/2510.03520)
-
-</td>
-<td width="33%" valign="top">
-
-**Feature Selection for Breast Cancer**
-*Heritage Institute of Tech*
-
-RFE + SFS across SVM / LogReg / XGBoost.
-
-`97.77% WDBC` · `93.67% WPBC`
-**Oral @ AGC 2026**
-
-</td>
-</tr>
-</table>
+**Advisor:** Dr. Sourangshu Bhattacharya
 
 ---
 
-### Stack
+### Multi-Agent Reinforcement Learning for Autonomous Drones
 
-<p align="center">
-<img src="https://skillicons.dev/icons?i=py,pytorch,sklearn,r,c,java,latex,docker,git,linux,vim,bash,postgres,fastapi&perline=14" alt="stack" />
-</p>
+Developing a co-evolutionary MARL environment for autonomous drone coordination and defense-oriented simulation systems.
 
----
-
-### The Numbers
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=ArneshBanerjee&show_icons=true&hide_border=true&include_all_commits=true&count_private=true&theme=vue&card_width=420" height="170" />
-<img src="https://streak-stats.demolab.com?user=ArneshBanerjee&hide_border=true&theme=vue" height="170" />
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ArneshBanerjee&layout=compact&hide_border=true&theme=vue&langs_count=8&card_width=420" height="160" />
-<img src="https://github-profile-trophy.vercel.app/?username=ArneshBanerjee&theme=flat&no-frame=true&no-bg=true&column=4&row=2&margin-w=8" height="160" />
-
-</div>
+**Collaboration:** AI for Defence Lab, ULiège (Belgium)
 
 ---
 
-<div align="center">
-<sub>↳ always up to talk about MARL, alignment, or weird things LLMs do with math.</sub>
-</div>
+### Understanding Mathematical Reasoning Failures in LLMs
+
+Investigating systematic reasoning limitations, failure modes, and robustness challenges in large language models when solving mathematical tasks.
+
+---
+
+## Selected Research Experience
+
+### IIT Kharagpur (2026)
+
+**Research Intern — Genomic AI**
+
+* Selected through the GRISHMA Summer Research Program.
+* Working on India's first genomic foundation model.
+* Building large-scale genomic language modeling systems.
+
+---
+
+### Jadavpur University (2025–Present)
+
+**Medical Computer Vision Research**
+
+* Achieved **98.10% Dice** and **96.39% IoU** on breast thermography tumor segmentation.
+* Developed a hybrid architecture combining:
+
+  * ResNet34
+  * ASPP
+  * Vision Transformer Decoder
+  * SE Attention
+* Conducted extensive ablation studies across 20 training runs.
+* Built reproducible training and evaluation pipelines.
+
+**Advisor:** Prof. Debotosh Bhattacharjee
+
+---
+
+### New Jersey Institute of Technology (2025)
+
+**AI Safety & RLHF Research**
+
+* Built datasets for a modified Safe RLHF pipeline.
+* Developed an 800-sample comparative safety benchmark.
+* Evaluated GPT, Gemini, DeepSeek, Qwen, and Mistral models.
+* Achieved substantially higher safety compliance than baseline systems under benchmark settings.
+
+**Advisor:** Dr. Arnob Ghosh
+
+---
+
+### Heritage Institute of Technology (2024–2025)
+
+**Applied Machine Learning for Breast Cancer Prognosis**
+
+* Developed a dual-stage diagnostic and recurrence prediction pipeline.
+* Evaluated:
+
+  * Random Forest
+  * SVM
+  * Logistic Regression
+  * XGBoost
+  * MLP
+* Applied:
+
+  * RFE
+  * Sequential Feature Selection
+  * SMOTE
+  * GridSearchCV
+
+**Results**
+
+* 97.77% accuracy on WDBC
+* 93.67% accuracy on WPBC
+
+**Advisor:** Ms. Arpita Talukdar
+
+---
+
+## Publications
+
+### Recursive and Wrapper-Based Feature Selection for Breast Cancer Diagnosis and Prognosis
+
+**Ayushi Bhattacharjee, Arnesh Banerjee, Arpita Talukdar**
+
+4th Analytics Global Conference (AGC 2026)
+
+**Oral Presentation**
+
+---
+
+## Preprints
+
+### Certifiable Safe RLHF: Fixed-Penalty Constraint Optimization for Safer Language Models
+
+Kartik Pandit, Sourav Ganguly, Arnesh Banerjee, Shaahin Angizi, Arnob Ghosh
+
+arXiv:2510.03520
+
+---
+
+### Multiscale Transformer-Enhanced U-Net with Level-Set Regularization for Breast Thermography Segmentation
+
+Arnesh Banerjee, Debotosh Bhattacharjee
+
+Manuscript in preparation
+
+---
+
+## Highlights
+
+🏆 Research Intern — IIT Kharagpur
+
+🏆 Selected for multiple IIT summer research programs
+
+🏆 Oral Presenter — AGC 2026
+
+🏆 Department Third Rank (SGPA 9.46)
+
+🏆 Institutional Innovation Council Representative
+
+🏆 Top 5.3% in WBJEE
+
+---
+
+## Technical Stack
+
+### Languages
+
+Python • R • Java • C • SQL • LaTeX
+
+### Machine Learning
+
+PyTorch • Scikit-Learn • XGBoost • CatBoost • Keras
+
+### Reinforcement Learning
+
+Gymnasium • Stable-Baselines3 • PPO • SAC • DQN • Double DQN
+
+### Data Science
+
+NumPy • Pandas • Matplotlib • Plotly • Seaborn
+
+### Tools
+
+Git • Docker • FastAPI • Flask • JAX
+
+---
+
+## Connect
+
+🌐 Website: https://arneshbanerjee.github.io
+
+💼 LinkedIn: https://linkedin.com/in/arnesh24
+
+📧 [arnesh.banerjee.ds27@heritageit.edu.in](mailto:arnesh.banerjee.ds27@heritageit.edu.in)
+
+🐙 GitHub: https://github.com/ArneshBanerjee
+
+---
+
+> "Building reliable, interpretable, and safe AI systems through research."
