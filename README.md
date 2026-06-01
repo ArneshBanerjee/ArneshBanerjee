@@ -1,5 +1,4 @@
 <div>
-  <img align="right" src="me.jpeg" width="160" style="border-radius: 4px; box-shadow: 0 2px 14px -4px rgba(0,0,0,0.15); margin-left: 30px;" />
   <h1>Arnesh Banerjee</h1>
   <p>
     Undergraduate Researcher · B.Tech CSE (Data Science)<br />
