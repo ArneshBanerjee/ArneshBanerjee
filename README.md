@@ -164,5 +164,5 @@ My ongoing work focuses on RL environments and simulation for autonomous systems
 [![Website](https://img.shields.io/badge/Website-8b1a1a?style=for-the-badge&logo=google-chrome&logoColor=white)](https://arneshbanerjee.github.io/)
 
 <p align="center">
-  <sub>Last updated May 2026 · Built with ❤️ by Arnesh Banerjee</sub>
+  <sub>Last updated May 2026 · Built with ❤️ by Arnesh Banerjee (j.k. I used some AI to make this look cooler by sending it my CV)</sub>
 </p>
