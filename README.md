@@ -44,7 +44,7 @@ My ongoing work focuses on RL environments and simulation for autonomous systems
 
 | Degree | Institution | GPA / Score | Period |
 |--------|-------------|-------------|--------|
-| B.Tech in Data Science | Heritage Institute of Technology, Kolkata | **8.876 / 10** | Aug 2023 – Jun 2027 |
+| B.Tech in Data Science | Heritage Institute of Technology, Kolkata | **8.9 / 10** | Aug 2023 – Jun 2027 |
 
 ---
 
