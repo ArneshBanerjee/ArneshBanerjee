@@ -17,37 +17,6 @@
 
 ---
 
-### 🔬 About Me
-
-I am an undergraduate researcher interested in **multi-agent reinforcement learning**, **computer vision**, **AI safety**, **LLMs**, and **Applied ML**.  
-Past projects include applied ML for cancer prognosis, thermographic image segmentation using hybrid CNN‑Transformer architectures, and a modified Safe RLHF pipeline for safety benchmarking and safer alignment of large language models. I also investigate failure modes of LLMs in mathematical reasoning.  
-
-My ongoing work focuses on RL environments and simulation for autonomous systems — a **MARL drone simulator** for defence applications. I am currently interning at **IIT Kharagpur**, working on India’s first genomic language model (IgLM).  
-
-🎯 I plan to pursue a **PhD** after my Bachelor’s degree.
-
----
-
-### 🧠 Research Interests
-
-![Multi-Agent RL](https://img.shields.io/badge/Multi--Agent%20RL-8b1a1a?style=flat-square)
-![RL Environments](https://img.shields.io/badge/RL%20Environments-8b1a1a?style=flat-square)
-![AI Safety](https://img.shields.io/badge/AI%20Safety-8b1a1a?style=flat-square)
-![Deep Learning](https://img.shields.io/badge/Deep%20Learning-8b1a1a?style=flat-square)
-![Applied ML](https://img.shields.io/badge/Applied%20ML-8b1a1a?style=flat-square)
-![LLMs](https://img.shields.io/badge/LLMs-8b1a1a?style=flat-square)
-![Computer Vision](https://img.shields.io/badge/Computer%20Vision-8b1a1a?style=flat-square)
-
----
-
-### 🎓 Education
-
-| Degree | Institution | GPA / Score | Period |
-|--------|-------------|-------------|--------|
-| B.Tech in Data Science | Heritage Institute of Technology, Kolkata | **8.9 / 10** | Aug 2023 – Jun 2027 |
-
----
-
 ### 🔬 Research Experience
 
 <div style="border-left: 4px solid #8b1a1a; padding-left: 15px; margin-bottom: 20px;">
@@ -131,18 +100,6 @@ My ongoing work focuses on RL environments and simulation for autonomous systems
   <strong>Analyzing Historical Revisionism in LLMs in the Context of Indian History</strong><br/>
   Kartik Pandit, Sourav Ganguly, <strong>Arnesh Banerjee</strong>, Avirup Chakraborty, Arnob Ghosh. Advisor: Dr. Arnob Ghosh.
 </div>
-
----
-
-### 🏆 Achievements
-
-- 🥉 **Department Third** — 4th Semester, SGPA: 9.46, B.Tech CSE(DS), Heritage Institute of Technology.
-- 🎓 **Summer Internship Offers** — Selected for IIT Kharagpur, 3× IIT Patna, IIT Dhanbad, and IIM Ahmedabad AI Venture Summer Internship 2026.  
-  <sub>📎 Proofs: [IIT KGP](Summer-Intern-2026/IIT%20KGP.png) · [IIT Patna 1](Summer-Intern-2026/IIT%20Patna%201.png) · [IIT Patna 2](Summer-Intern-2026/IIT%20Patna%202.png) · [IIT Patna 3](Summer-Intern-2026/IIT%20Patna%203.png) · [IIM Ahmedabad](Summer-Intern-2026/IIMA.png)</sub>
-- 🏅 **Institutional Innovation Council (IIC)** — One of 10 members representing the CSE(DS) department, HIT Kolkata.
-- 🎤 **Oral Presentation** — Presenting author at AGC 2026.
-- 📊 **WBJEE 2023** — Top 5.3% in West Bengal.
-
 ---
 
 ### 💻 Technical Skills
