@@ -9,9 +9,9 @@
 - Failure Modes of Large Language Models on Research-Level Mathematics: A Taxonomy and an Empirical Characterisation. Arnesh Banerjee, Ayushi Bhattacharjee. arXiv: https://arxiv.org/abs/2606.24902
 - An Intelligent Weakly Supervised Framework for Breast Thermography Segmentation Using Hybrid CNN–Transformer Networks. Arnesh Banerjee, Debotosh Bhattacharjee.
 
-## Open Source:
-- Zed Editor: PR 61294
-- OpenCV: PR 29255
+## Open Source Contributor:
+- Zed Code Editor
+- OpenCV
 
 Interested in hiring in ML, AI, DS or related roles?
 Contact me: arneshbanerjee24@gmail.com
