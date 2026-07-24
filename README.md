@@ -13,5 +13,8 @@
 - Zed Code Editor
 - OpenCV
 
+I am looking to join a PhD/Masters following my Bachelors in 2027.
+
 Interested in hiring in ML, AI, DS or related roles?
+
 Contact me: arneshbanerjee24@gmail.com
