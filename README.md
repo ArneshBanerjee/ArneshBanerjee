@@ -12,6 +12,7 @@
 ## Open Source Contributor:
 - Zed Code Editor
 - OpenCV
+- hnn-core
 
 I am looking to join a PhD/Masters following my Bachelors in 2027.
 
