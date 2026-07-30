@@ -10,8 +10,9 @@
 - An Intelligent Weakly Supervised Framework for Breast Thermography Segmentation Using Hybrid CNN–Transformer Networks. Arnesh Banerjee, Debotosh Bhattacharjee.
 
 ## Open Source Contributor:
-- Zed Code Editor
 - OpenCV
+- Zed Code Editor
+- R Language
 - hnn-core
 
 I am looking to join a PhD/Masters following my Bachelors in 2027.
