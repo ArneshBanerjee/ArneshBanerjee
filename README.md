@@ -14,7 +14,9 @@
 - [Zed Code Editor](https://github.com/zed-industries)
 - [Rust Language](https://github.com/rust-lang)
 - [Activity Watch](https://github.com/ActivityWatch)
-- [hnn-core](https://github.com/jonescompneurolab)
+- [Kubescape](https://github.com/kubescape)
+- [Root by CERN](https://github.com/root-project)
+- [hnn-core by jonescompneurolab](https://github.com/jonescompneurolab)
 
 I am looking to join a PhD/Masters following my Bachelors in 2027.
 
