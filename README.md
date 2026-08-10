@@ -3,12 +3,6 @@
 - Research Intern at Jadavpur University CMATER Lab under Prof. Debosoth Bhattacharjee. October 2025 - May 2026.
 - Summer Research Intern at New Jersey Institute of Technology Learning-based Decision Making Lab under Dr. Arnob Ghosh. June 2025 - October 2025.
 
-## Papers & Preprints:
-- Recursive and Wrapper-Based Feature Selection for Breast Cancer Diagnosis and Prognosis. Ayushi Bhattacharjee, Arnesh Banerjee, Arpita Talukdar. 4th Analytics Global Conference (AGC 2026), March 2026. SPRINGER ASCAR Series.
-- Certifiable Safe RLHF: Semantic Grounding and Fixed Penalty Constraint Optimization for Safer LLM Alignment. Kartik Pandit, Sourav Ganguly, Arnesh Banerjee, Shaahin Angizi, Arnob Ghosh. 2025. arXiv: https://arxiv.org/abs/2510.03520
-- Failure Modes of Large Language Models on Research-Level Mathematics: A Taxonomy and an Empirical Characterisation. Arnesh Banerjee, Ayushi Bhattacharjee. arXiv: https://arxiv.org/abs/2606.24902
-- An Intelligent Weakly Supervised Framework for Breast Thermography Segmentation Using Hybrid CNN–Transformer Networks. Arnesh Banerjee, Debotosh Bhattacharjee.
-
 ## Open Source Contributor:
 - [OpenCV](https://github.com/opencv)
 - [Zed Code Editor](https://github.com/zed-industries)
@@ -18,8 +12,14 @@
 - [Root by CERN](https://github.com/root-project)
 - [hnn-core by jonescompneurolab](https://github.com/jonescompneurolab)
 
-I am looking to join a PhD/Masters following my Bachelors in 2027.
+## Projects:
+- Kimi K3 for All
 
-Interested in hiring in ML, AI, DS or related roles?
+## Papers & Preprints:
+- Recursive and Wrapper-Based Feature Selection for Breast Cancer Diagnosis and Prognosis. Ayushi Bhattacharjee, Arnesh Banerjee, Arpita Talukdar. 4th Analytics Global Conference (AGC 2026), March 2026. SPRINGER ASCAR Series.
+- Certifiable Safe RLHF: Semantic Grounding and Fixed Penalty Constraint Optimization for Safer LLM Alignment. Kartik Pandit, Sourav Ganguly, Arnesh Banerjee, Shaahin Angizi, Arnob Ghosh. 2025. arXiv: https://arxiv.org/abs/2510.03520
+- Failure Modes of Large Language Models on Research-Level Mathematics: A Taxonomy and an Empirical Characterisation. Arnesh Banerjee, Ayushi Bhattacharjee. arXiv: https://arxiv.org/abs/2606.24902
+- An Intelligent Weakly Supervised Framework for Breast Thermography Segmentation Using Hybrid CNN–Transformer Networks. Arnesh Banerjee, Debotosh Bhattacharjee.
+
 
 Contact me: arnesh.banerjee.ds27@heritageit.edu.in
