@@ -13,7 +13,7 @@
 - [hnn-core by jonescompneurolab](https://github.com/jonescompneurolab)
 
 ## Projects:
-- Kimi K3 for All
+- [Kimi K3 for All](https://github.com/ArneshBanerjee/Kimi-K3-for-All) : Built a from-scratch training pipeline for Kimi K3, a 2.8T-parameter Mixture-of-Experts model released with inference-only code, by fixing 4 undocumented bugs blocking gradient flow through its router and experts. Then trained a ~1.3B param model on the training pipeline.
 
 ## Papers & Preprints:
 - Recursive and Wrapper-Based Feature Selection for Breast Cancer Diagnosis and Prognosis. Ayushi Bhattacharjee, Arnesh Banerjee, Arpita Talukdar. 4th Analytics Global Conference (AGC 2026), March 2026. SPRINGER ASCAR Series.
