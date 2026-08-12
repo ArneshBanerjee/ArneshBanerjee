@@ -22,4 +22,4 @@
 - An Intelligent Weakly Supervised Framework for Breast Thermography Segmentation Using Hybrid CNN–Transformer Networks. Arnesh Banerjee, Debotosh Bhattacharjee.
 
 
-Contact me: arnesh.banerjee.ds27@heritageit.edu.in
+Contact me: arneshbanerjee24 [at] gmail [dot] com
