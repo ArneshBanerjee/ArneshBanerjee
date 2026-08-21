@@ -6,9 +6,10 @@
 ## Open Source Contributor:
 - [OpenCV](https://github.com/opencv)
 - [Zed Code Editor](https://github.com/zed-industries)
+- [Kubescape](https://github.com/kubescape)
+- [Ghostty](https://github.com/ghostty-org/ghostty)
 - [Rust Language](https://github.com/rust-lang)
 - [Activity Watch](https://github.com/ActivityWatch)
-- [Kubescape](https://github.com/kubescape)
 - [Root by CERN](https://github.com/root-project)
 - [hnn-core by jonescompneurolab](https://github.com/jonescompneurolab)
 
