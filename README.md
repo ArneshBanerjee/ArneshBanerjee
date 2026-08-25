@@ -25,4 +25,4 @@
 
 
 Contact me: arneshbanerjee24 [at] gmail [dot] com
-https://arneshbanerjee.dev/
+Portfoliop: arneshbanerjee [dot] dev
