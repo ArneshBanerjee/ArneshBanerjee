@@ -25,4 +25,3 @@
 
 
 Contact me: arneshbanerjee24 [at] gmail [dot] com
-Portfoliop: arneshbanerjee [dot] dev
