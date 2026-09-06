@@ -12,6 +12,7 @@
 - [Activity Watch](https://github.com/ActivityWatch)
 - [Root by CERN](https://github.com/root-project)
 - [hnn-core by jonescompneurolab](https://github.com/jonescompneurolab)
+- [jenkins](https://github.com/jenkinsci)
 
 ## Projects:
 - [Kimi K3 for All](https://github.com/ArneshBanerjee/Kimi-K3-for-All) : Built a from-scratch training pipeline for Kimi K3, a 2.8T-parameter Mixture-of-Experts model released with inference-only code, by fixing 4 undocumented bugs blocking gradient flow through its router and experts. Then trained a ~1.3B param model on the training pipeline.
