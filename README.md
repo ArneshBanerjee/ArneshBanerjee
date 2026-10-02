@@ -5,9 +5,9 @@ I'm a senior (B.Tech CSE, minor in Data Science) with real world experience in m
 [Website](https://arneshbanerjee.dev) · [Resume](https://arneshbanerjee.dev/cv/Arnesh_Resume.pdf) · [LinkedIn](https://www.linkedin.com/in/arnesh24/) · [Google Scholar](https://scholar.google.com/citations?user=BzV2n8cAAAAJ&hl=en) · [X](https://x.com/Arnesh_24)
 
 ## Experience:
-- Summer Research Intern at Indian Institute of Technology (IIT) Kharagpur under Dr. Sourangshu Bhattacharya. May 2026 - Present.
-- Research Intern at Jadavpur University CMATER Lab under Prof. Debotosh Bhattacharjee. November 2025 - May 2026.
-- Summer Research Intern at New Jersey Institute of Technology Learning-based Decision Making Lab under Dr. Arnob Ghosh. June 2025 - November 2025.
+- Summer Research Intern(onsite) at Indian Institute of Technology (IIT) Kharagpur under Dr. Sourangshu Bhattacharya. May 2026 - Present.
+- Research Intern(virtual) at Jadavpur University CMATER Lab under Prof. Debotosh Bhattacharjee. November 2025 - May 2026.
+- Summer Research Intern(onsite) at New Jersey Institute of Technology, USA, in the Learning-based Decision Making Lab under Dr. Arnob Ghosh. June 2025 - November 2025.
 
 ## Open Source Contributor:
 - [Zed Code Editor](https://github.com/zed-industries) (9 merged PRs)
