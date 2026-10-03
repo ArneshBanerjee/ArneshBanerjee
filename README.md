@@ -25,6 +25,7 @@ I'm a senior (B.Tech CSE, minor in Data Science) with real world experience in m
 
 ## Projects:
 - [Kimi K3 for All](https://github.com/ArneshBanerjee/Kimi-K3-for-All) : Built a from-scratch training pipeline for Kimi K3, a 2.8T-parameter Mixture-of-Experts model released with inference-only code, by fixing 4 undocumented bugs blocking gradient flow through its router and experts. Then trained a 1.27B-parameter (0.364B active) model with the pipeline. Weights on [Hugging Face](https://huggingface.co/ArneshBanerjee/Kimi-K3-for-All), write-up on [my blog](https://arneshbanerjee.dev/blog/kimi-k3-for-all.html).
+- [Jupyter Extension for Zed Editor](https://github.com/ArneshBanerjee/zed-jupyter) : A Zed extension that adds Jupyter notebook support. Zed extensions can't draw custom UI, so it works through what Zed already has: a language server that checks .ipynb files, and code actions to pair a notebook with a runnable # %% script, run all cells, or clear outputs.
 - [DebateBench](https://github.com/ArneshBanerjee/DebateBench) : A multi-LLM debate platform. Anonymised agents argue a topic over several rounds, and each round's winning response becomes shared context for the next. Every agent gets a fresh random code each round, so the orchestrator judging them never learns which model wrote what and can't build a bias toward one.
 
 ## Writing:
