@@ -1,6 +1,6 @@
 **Machine Learning & AI · Software Engineering**
 
-I'm a senior (B.Tech CSE, minor in Data Science) with real world experience in medical imaging, multi-omics cancer modelling and LLM alignment, plus ML infrastructure and systems work in Rust, C++ and Go.
+I'm a final year student (B.Tech CSE, minor in Data Science) with real world experience in medical imaging, multi-omics cancer modelling and LLM alignment, plus ML infrastructure and systems work in Rust, C++ and Go.
 
 [Website](https://arneshbanerjee.dev) · [Resume](https://arneshbanerjee.dev/cv/Arnesh_Resume.pdf) · [LinkedIn](https://www.linkedin.com/in/arnesh24/) · [Google Scholar](https://scholar.google.com/citations?user=BzV2n8cAAAAJ&hl=en) · [X](https://x.com/Arnesh_24)
 
