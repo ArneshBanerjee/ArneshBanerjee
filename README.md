@@ -7,6 +7,7 @@ On the side, I made [GPT-2 in assembly](https://github.com/ArneshBanerjee/gpt2.s
 [Website](https://arneshbanerjee.dev) · [Resume](https://arneshbanerjee.dev/cv/Arnesh_Resume.pdf) · [LinkedIn](https://www.linkedin.com/in/arnesh24/) · [Google Scholar](https://scholar.google.com/citations?user=BzV2n8cAAAAJ&hl=en) · [X](https://x.com/Arnesh_24)
 
 ## Experience
+- **Gen.new**, Nov 2026 - present. Member of Technical Staff.
 - **IIT Kharagpur**, May 2026 - present. Summer research intern with Dr. Sourangshu Bhattacharya. A multi-omic network for head-and-neck cancer, where DNA methylation alone tells oral from non-oral tumour origin at 0.937 accuracy.
 - **Jadavpur University**, Nov 2025 - May 2026. Research intern at the CMATER Lab with Prof. Debotosh Bhattacharjee. A hybrid CNN-Transformer that segments breast thermograms at 0.9716 Dice.
 - **NJIT**, Jun 2025 - Nov 2025. Summer research intern at the Learning-based Decision Making Lab with Dr. Arnob Ghosh. A semantic safety cost model for LLM alignment that agrees with human safety judgments 92% of the time.
