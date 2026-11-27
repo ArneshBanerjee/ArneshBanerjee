@@ -1,6 +1,6 @@
 **Machine learning & software engineering**
 
-I'm a final-year computer science student. I work on machine learning and AI, from deep learning and reinforcement learning to LLMs, computer vision and AI safety, with research at IIT Kharagpur, Jadavpur University and NJIT.
+I am a Member of Technical Staff at Gen.new and a final-year computer science student. I work on machine learning and AI, from deep learning and reinforcement learning to LLMs, computer vision and AI safety, with research at IIT Kharagpur, Jadavpur University and NJIT.
 
 On the side, I made [GPT-2 in assembly](https://github.com/ArneshBanerjee/gpt2.s), built the training pipeline for [Kimi K3](https://arneshbanerjee.dev/blog/kimi-k3-for-all.html) from scratch, and contribute to open source.
 
